@@ -5,7 +5,9 @@ I'm a junior full stack developer and graphic design student in Ottawa, Ontario.
 
 ### What I'm up to:
   - I'm currently learning
+    - Java
     - C#
+    - Python
     - Rust
 
 ### Some hobbies I like to do on my free time:
